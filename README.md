@@ -6,4 +6,4 @@ To make physical movement, I used Phaser which is a framework for making desktop
 
 Here is Phaser link doc: http://docs.phaser.io/
 
-To run app, clone app from: git@github.com:linuxhjkaru/flappy-demo.git and run index.html file
+To run app, clone app from: "git@github.com:linuxhjkaru/flappy-demo.git" and run "index.html" file
